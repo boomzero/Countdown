@@ -1,0 +1,14 @@
+{
+  "name": "countdown",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "flipdown": "^0.3.2"
+  }
+}
